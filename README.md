@@ -87,6 +87,6 @@ alias dcr="docker-compose run"
 alias dce="docker-compose exec"
 ```
 
-It then becomes way faster to execute a composer command for instancez:
+It then becomes way faster to execute a composer command for instance:
 
 `dcr composer require --dev phpunit/phpunit`
